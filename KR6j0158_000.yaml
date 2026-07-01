@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0158/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 白傘蓋大佛頂王最勝無比大威德金剛無礙大道場陀羅尼念誦法要
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0975.xml
+    old_id: T19n0975
+hash: sha256:68d398c17c8abf1bba9f2b267b218608aaae5e0852ebca10990b51e17e3fe500

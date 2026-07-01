@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0158/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0158/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 白傘蓋大佛頂王最勝無比大威德金剛無礙大道場陀羅尼念誦法要
+  identifiers:
+    krp: KR6j0158
+    cbeta: T19n0975
+    cbeta_old_id: T19n0975
+    authorityid: CA0000130
+    json_key: T0975
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0975.xml
+    old_id: T19n0975
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0158_000-T.yaml, hash: 'sha256:68d398c17c8abf1bba9f2b267b218608aaae5e0852ebca10990b51e17e3fe500'}
+  - {seq: 1, filename: KR6j0158_001-T.yaml, hash: 'sha256:d60400f9cd48f99b1f16095e70993def40f99278941d173c18d4b559daa27fa2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0158_000-T.markers.yaml, hash: 'sha256:26f229807a72d6b45406909e61b091521faf5ed26b5e8160402de0041750d07b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0158_001-T.markers.yaml, hash: 'sha256:4ac32fb7d96ccb4454fd58e95a09bc89d8aa327eab15a49f2cd249b1890e4bff'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0158_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2966
+  label: '白傘蓋大佛頂王最勝無比大
+
+    威德金剛無礙大道場陀羅尼
+
+    念誦法要'
+  type: juan
+  level: 1
+hash: sha256:b2bf284edb564ecd70e5c3e8c1958dbdbeafd3c30e48e5a44c1c26a56ea1488b
