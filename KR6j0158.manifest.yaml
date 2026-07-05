@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0158_000.yaml, hash: 'sha256:68d398c17c8abf1bba9f2b267b218608aaae5e0852ebca10990b51e17e3fe500'}
-  - {seq: 1, filename: KR6j0158_001.yaml, hash: 'sha256:42d7dc01ec91d85a8e276f1c549d8ec3b15c7cbeb37f9b0bfa48940464a761fe'}
+  - {seq: 1, filename: KR6j0158_001.yaml, hash: 'sha256:d60400f9cd48f99b1f16095e70993def40f99278941d173c18d4b559daa27fa2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0158_001.markers.yaml, hash: 'sha256:88f19f7d954ad91aecc5e21e0fc648b9f6ac9a622657b21cf2b3867d3b6ce92c'}
+  - {seq: 0, role: markers, filename: assets/KR6j0158_000.markers.yaml, hash: 'sha256:57c39498829e29976e4bdc3012be2d37bbcf73c07cb4b3abb04860ebfcd52aff'}
+  - {seq: 1, role: markers, filename: assets/KR6j0158_001.markers.yaml, hash: 'sha256:07f94bb07edb55fa5f9b96bd95c314e3de700b3dddb995634fb65057b9a6111c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,7 +47,4 @@ table_of_contents:
     念誦法要'
   type: juan
   level: 1
-hash: sha256:2c34a98f88731a23394f2e4a52e204c5049c8fa0bc1dc944a4174f2688a9b4e2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:93df174e7ffd448ce691091d0195e93fe940682c9b1d298fbe1346d11df9889c
