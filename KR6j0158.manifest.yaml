@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0158/v1
 canonical_location: https://kanripo.org/bkk/KR6j0158/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 白傘蓋大佛頂王最勝無比大威德金剛無礙大道場陀羅尼念誦法要
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0158_000.yaml, hash: 'sha256:68d398c17c8abf1bba9f2b267b218608aaae5e0852ebca10990b51e17e3fe500'}
-  - {seq: 1, filename: KR6j0158_001.yaml, hash: 'sha256:d60400f9cd48f99b1f16095e70993def40f99278941d173c18d4b559daa27fa2'}
+  - {seq: 1, filename: KR6j0158_001.yaml, hash: 'sha256:b784a7bcfded23cebf255a6fde52c6bd42d68ae787b6dfda6cc63b0fb8c2a467'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0158_000.markers.yaml, hash: 'sha256:57c39498829e29976e4bdc3012be2d37bbcf73c07cb4b3abb04860ebfcd52aff'}
-  - {seq: 1, role: markers, filename: assets/KR6j0158_001.markers.yaml, hash: 'sha256:07f94bb07edb55fa5f9b96bd95c314e3de700b3dddb995634fb65057b9a6111c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0158_001.markers.yaml, hash: 'sha256:ff22a1c1dbba39b2b319cde9baddb8b14bcaed7b5e0b8427564c91594794e7ba'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,4 +47,7 @@ table_of_contents:
     念誦法要'
   type: juan
   level: 1
-hash: sha256:93df174e7ffd448ce691091d0195e93fe940682c9b1d298fbe1346d11df9889c
+hash: sha256:f44f535a025f20b437b408cdd25f880e2ec6656f178ea2dcd3330956dcb65954
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
